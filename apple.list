@@ -1,5 +1,6 @@
 #本规则集由blackmatrix7的规则集改进
 #原仓库地址 https://github.com/blackmatrix7/ios_rule_script
+#本仓库地址 https://github.com/Luna-Repo/shadowrocket-config/tree/rule
 DOMAIN,apps.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN,a1.mzstatic.com
