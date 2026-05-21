@@ -34,6 +34,8 @@
 
 https://raw.githubusercontent.com/Luna-Repo/shadowrocket-config/refs/heads/main/defualt-safe.conf
 
+👉请将该链接复制到shadowrocket中，在配置页面点击右上角加号并粘贴即可下载
+
 
 ---
 
