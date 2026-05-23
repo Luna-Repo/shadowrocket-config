@@ -32,7 +32,7 @@
 
 ## ⬇️ 配置文件一键安装
 
-👉[![install config](https://img.shields.io/badge/%E5%AE%89%E5%85%A8%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85-green.svg)](shadowrocket://config/add/https://raw.githubusercontent.com/Luna-Repo/shadowrocket-config/refs/heads/main/defualt-safe.conf)
+👉 [点击这里一键导入配置到 Shadowrocket](shadowrocket://config/add/https://raw.githubusercontent.com/Luna-Repo/shadowrocket-config/refs/heads/main/defualt-safe.conf)
 
 ---
 
