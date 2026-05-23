@@ -18,9 +18,9 @@
 
 虽然以下服务可用于辅助测试 DNS 设置是否异常：
 
-👉 https://ipleak.net/  
+👉 [![IPLeak Test](https://img.shields.io/badge/ipleak.net-%E6%B5%8B%E8%AF%95-green.svg)](https://ipleak.net/)
 
-👉 https://dnsleaktest.com/  
+👉 [![Browserleaks Test](https://img.shields.io/badge/browserleaks.com-%E6%B5%8B%E8%AF%95-green)](https://browserleaks.com/dns)
 
 ⚠️ 但请注意：  
 
