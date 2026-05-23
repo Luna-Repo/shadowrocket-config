@@ -39,11 +39,11 @@ https://raw.githubusercontent.com/Luna-Repo/shadowrocket-config/refs/heads/main/
 
 ---
 
-## 📄 License
+## License
 
-This configuration is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This project is licensed under the [Unlicense](http://unlicense.org/), dedicating the work to the public domain. You are completely free to use, modify, and distribute it for any purpose, without any attribution required.
 
-You may use, modify, and share this file for any purpose, as long as proper credit is given to the author and this repository.
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Disclaimer/免责声明
 
