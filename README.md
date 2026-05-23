@@ -30,9 +30,15 @@
 
 ---
 
-## ⬇️ 配置文件一键安装
+## ⬇️ 配置文件下载
 
-👉 [点击这里一键导入配置到 Shadowrocket](shadowrocket://config/add/https://raw.githubusercontent.com/Luna-Repo/shadowrocket-config/refs/heads/main/defualt-safe.conf)
+
+```
+https://raw.githubusercontent.com/Luna-Repo/shadowrocket-config/refs/heads/main/NoLeak.conf
+
+```
+
+👉请将该链接复制到shadowrocket中，在 配置 页面点击右上角加号并粘贴即可下载
 
 ---
 
