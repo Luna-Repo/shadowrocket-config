@@ -6,11 +6,11 @@
 
 ## 📚 规则来源
 
-- 🔗 ACL4SSR  
+- 🔗 [![ACL4SSR](https://img.shields.io/badge/ACL4SSR-%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80-orange.svg)](https://github.com/ACL4SSR/ACL4SSR/tree/master) 
 
-- 🔗 blackmatrix7  
+- 🔗 [![blackmatrix7](https://img.shields.io/badge/blackmatrix7-%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80-orange.svg)](https://github.com/blackmatrix7/ios_rule_script) 
 
-- 🔗 lowertop  
+- 🔗 [![LOWERTOP](https://img.shields.io/badge/LOWERTOP-%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80-orange.svg)](https://github.com/LOWERTOP/Shadowrocket-First)  
 
 ---
 
@@ -20,7 +20,7 @@
 
 👉 [![IPLeak Test](https://img.shields.io/badge/ipleak.net-%E6%B5%8B%E8%AF%95-green.svg)](https://ipleak.net/)
 
-👉 [![Browserleaks Test](https://img.shields.io/badge/browserleaks.com-%E6%B5%8B%E8%AF%95-green)](https://browserleaks.com/dns)
+👉 [![Browserleaks Test](https://img.shields.io/badge/browserleaks.com-%E6%B5%8B%E8%AF%95-green.svg)](https://browserleaks.com/dns)
 
 ⚠️ 但请注意：  
 
@@ -30,12 +30,9 @@
 
 ---
 
-## ⬇️ 配置文件下载
+## ⬇️ 配置文件一键安装
 
-https://raw.githubusercontent.com/Luna-Repo/shadowrocket-config/refs/heads/main/defualt-safe.conf
-
-👉请将该链接复制到shadowrocket中，在配置页面点击右上角加号并粘贴即可下载
-
+👉[![install config](https://img.shields.io/badge/%E5%AE%89%E5%85%A8%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85-green.svg)](shadowrocket://config/add/https://raw.githubusercontent.com/Luna-Repo/shadowrocket-config/refs/heads/main/defualt-safe.conf)
 
 ---
 
