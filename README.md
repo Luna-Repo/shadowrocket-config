@@ -35,7 +35,6 @@
 
 ```
 https://raw.githubusercontent.com/Luna-Repo/shadowrocket-config/refs/heads/main/NoLeak.conf
-
 ```
 
 👉请将该链接复制到shadowrocket中，在 配置 页面点击右上角加号并粘贴即可下载
